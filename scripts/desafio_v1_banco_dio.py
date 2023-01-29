@@ -26,7 +26,7 @@ while(True):
         else:
             extrato -= sacar_quantia
             vezes_sacadas += 1
-
+ 
     elif(opcao == "e"):
         print(f"seu extrato é R${extrato}")
 
